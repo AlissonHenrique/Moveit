@@ -10,9 +10,9 @@
 </p>
  
 <br>
-
+🖼 Screenshot
 <p align="center">
-  <img alt="Happy" src=".github/moveit.gif" width="100%">
+  <img alt="Moveit" src=".github/moveit.gif" width="100%">
 </p>
 
 ## 👨🏻‍💻 Technologies
