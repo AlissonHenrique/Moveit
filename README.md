@@ -28,6 +28,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJs](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+### :rocket: Como instalar e startar
+
+- `git clone https://github.com/AlissonHenrique/Moveit`
+- **Go to repository folder**
+- `yarn or npm`
+- `yarn start or npm start`
+
 ## 💻 Projeto
 
 O Move.it é uma aplicação no formato de um game para desenvolver algumas atividades físicas durante dia 💜
