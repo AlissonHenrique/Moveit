@@ -21,7 +21,7 @@
   <img alt="Happy" src=".github/moveit.gif" width="100%">
 </p>
 
-## 🚀 Technologies
+## 👨🏻‍💻 Technologies
 
 This project was developed with the following technologies:
 
@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 - `yarn or npm`
 - `yarn dev or npm dev`
 
-## 💻 Projeto
+## 💻 Project
 
 The Move.it is an application in the format of a game to develop some physical activities during the day 💜
 
