@@ -10,7 +10,9 @@
 </p>
  
 <br>
-🖼 Screenshot
+
+## 🖼 Screenshot
+
 <p align="center">
   <img alt="Moveit" src=".github/moveit.gif" width="100%">
 </p>
