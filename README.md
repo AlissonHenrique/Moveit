@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -21,30 +21,30 @@
   <img alt="Happy" src=".github/moveit.gif" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [NextJs](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### :rocket: Como instalar e startar
+### :rocket: How to install and start
 
 - `git clone https://github.com/AlissonHenrique/Moveit`
 - **Go to repository folder**
 - `yarn or npm`
-- `yarn start or npm start`
+- `yarn dev or npm dev`
 
 ## 💻 Projeto
 
-O Move.it é uma aplicação no formato de um game para desenvolver algumas atividades físicas durante dia 💜
+The Move.it is an application in the format of a game to develop some physical activities during the day 💜
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+In the links below you will find the layout of the web project. Remembering that you need to have an account at [Figma](http://figma.com/) to access it.
 
 - [Layout Web](https://www.figma.com/file/pVUC6keNOBk0dSWqdagkgP/Move.it-2.0)
 
 ## :memo: License
 
-This project is under the **MIT** license.
+This project is under MIT license. See the [LICENSE](https://github.com/AlissonHenrique/Moveit/blob/main/LICENSE) for more information. .
